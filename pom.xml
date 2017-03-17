@@ -9,17 +9,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <servers>
-    <server>
-      <id>snapshots</id>
-      <username>admin</username>
-      <password>admin123</password>
-      <filePermissions>664</filePermissions>
-      <directoryPermissions>775</directoryPermissions>
-      <configuration></configuration>
-    </server>
-  </servers>
-        <dependencies>
+    <dependencies>
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
